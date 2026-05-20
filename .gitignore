@@ -1,0 +1,6 @@
+# Raw and generated data
+data/raw/
+data/processed/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
