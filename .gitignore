@@ -1,6 +1,8 @@
-# Raw and generated data
+# Raw dataset should not be versioned
 data/raw/
-data/processed/
 
 # Jupyter temporary files
-.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Editor backup files
+*.bak
