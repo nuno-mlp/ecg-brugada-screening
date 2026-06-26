@@ -1,0 +1,7 @@
+error_type,confidence_category,n_records
+false_negative,borderline,1
+false_negative,confident,9
+false_negative,intermediate,2
+false_positive,borderline,4
+false_positive,confident,20
+false_positive,intermediate,9
